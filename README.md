@@ -2,7 +2,7 @@
 
 Welcome to the **BS Cyber Security Past Papers Repository**! This is a collaborative project aimed at providing easy access to past exam papers for various courses in the BS Cyber Security program. Your contributions are welcome and appreciated—let’s build this resource together!
 
-## Directory Listing
+## Directory
 
 ### Semester-I
 
