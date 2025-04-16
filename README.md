@@ -10,7 +10,7 @@ Welcome to the **BS Cyber Security Past Papers Repository**! This is a collabora
 
 ![Repository Structure](https://github.com/user-attachments/assets/b5a105d2-b14b-4697-a939-7f370a58b73c)
 
-If you don’t see a folder for your course, it means no one has uploaded past papers for it yet. Feel free to [open an issue](https://github.com/user/repository/issues) to request the addition of specific past papers.
+If you don’t see a folder for your course, it means no one has uploaded past papers for it yet. Feel free to [open an issue](https://github.com/thegr1ffyn/bscys-past-papers/issues) to request the addition of specific past papers.
 
 ---
 
