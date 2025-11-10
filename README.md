@@ -51,7 +51,7 @@ Your PR will be reviewed by repository maintainers. They may suggest changes, wh
 ## Want to Help Manage This Repository?
 If you’re interested in helping us review contributions or maintain the repository, feel free to reach out. 
 
-For any questions or to join the management team, contact: **211064@students.au.edu.pk**.
+For any questions or to join the management team, contact: **info[.]hamzaharoon[@]gmail[.]com**.
 
 ---
 
